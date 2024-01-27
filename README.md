@@ -29,10 +29,10 @@ See full step-by-step process with screenshots in water-docs.md
 
 # Code Samples
 See code samples for:
-- index.html
-- styles.css
-- script.js
-- s3-bucket-policy.json
+- index.html (/code/index.html)
+- styles.css (/code/styles.css)
+- script.js (/code/script.js)
+- s3-bucket-policy.json (/code/s3-bucket-policy.json)
 
 # Learnings
 - Learned S3 static website hosting options
